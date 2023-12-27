@@ -34,9 +34,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             }],
             parameters: Parameters {
                 temperature: 0.5,
-                maxOutputTokens: 100,
-                topK: 0,
-                topP: 1.0,
+                max_output_tokens: 100,
+                top_k: 0,
+                top_p: 1.0,
             },
         })
         .send()
