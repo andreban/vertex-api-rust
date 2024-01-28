@@ -1,4 +1,4 @@
-# Vertex AI and Rust
+# Vertex AI and Rust [![Rust](https://github.com/andreban/vertex-api-rust/actions/workflows/rust.yml/badge.svg)](https://github.com/andreban/vertex-api-rust/actions/workflows/rust.yml)
 
 This repository contains a demo for interacting with [Google Cloud Vertex AI](https://cloud.google.com/vertex-ai/docs) services.
 
